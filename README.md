@@ -3,8 +3,6 @@
 
 ![image](https://github.com/nithin3q/Youtube-clone/assets/52022957/91433c81-c3c7-40ac-92a0-f119fe09f5e6)
 
-## Watch the DEmo [Live](https://utubeclone-nithins.netlify.app/)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
